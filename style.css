@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: orangered;
+    font-style: italic;
+}
+li {
+    color: brown;
+}
+
+#item1 {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#item2 {
+    background-color: yellow;
+    font-weight: bold;
+}
+#uline {
+    font-style: italic;
+    text-decoration: underline;
+}
+ul {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    letter-spacing: 6px;
+}
+#bold{
+    font-weight: bold;
+    background-color: yellow;
+}
+p {
+    color: rgb(98, 82, 10);
+    font-size: 20px;
+}
+a {
+    color: brown;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+    padding: 2px;
+
+}
